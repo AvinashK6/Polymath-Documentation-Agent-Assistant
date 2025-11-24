@@ -1,0 +1,38 @@
+category,metric,value
+keyMetrics,total_findings,1
+keyMetrics,average_finding_length,12457
+themes,positive/benefit,1
+themes,negative/challenge,1
+themes,technical/implementation,1
+themes,market/business,1
+themes,future/trend,1
+themes,data/statistics,1
+sentiments,positive,1
+sentiments,negative,
+sentiments,neutral,
+trends,0,[object Object]
+entities,The,5
+entities,Precision Medicine,3
+entities,Need,3
+entities,Markdown,2
+entities,Healthcare,2
+entities,With,2
+entities,Multi,2
+entities,Advanced,2
+entities,Long,2
+entities,Challenges,2
+entities,Integration,2
+entities,Success,2
+entities,Develop,2
+entities,First,1
+entities,Now,1
+entities,Let,1
+entities,Based,1
+entities,Here,1
+entities,Transforming Modern Medicine,1
+entities,Comprehensive Research Synthesis,1
+statisticalSummary,mean,205.05
+statisticalSummary,median,4.25
+statisticalSummary,stdDev,585.62
+statisticalSummary,min,
+statisticalSummary,max,2030

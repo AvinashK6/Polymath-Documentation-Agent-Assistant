@@ -1,0 +1,40 @@
+category,metric,value
+keyMetrics,total_findings,1
+keyMetrics,average_finding_length,8245
+themes,positive/benefit,1
+themes,negative/challenge,1
+themes,technical/implementation,1
+themes,market/business,
+themes,future/trend,1
+themes,data/statistics,1
+sentiments,positive,1
+sentiments,negative,
+sentiments,neutral,
+trends,0,[object Object]
+entities,Education,4
+entities,As,3
+entities,Need,3
+entities,Markdown,2
+entities,Fostering,2
+entities,Challenges,2
+entities,Emphasis,2
+entities,The,2
+entities,Let,1
+entities,Now,1
+entities,Transforming Teaching,1
+entities,Learning,1
+entities,Digital Age,1
+entities,Introduction
+
+Artificial,1
+entities,From,1
+entities,This,1
+entities,Key Findings,1
+entities,Current State,1
+entities,Applications,1
+entities,Widespread Adoption,1
+statisticalSummary,mean,200.36
+statisticalSummary,median,23
+statisticalSummary,stdDev,520.65
+statisticalSummary,min,1
+statisticalSummary,max,2023
