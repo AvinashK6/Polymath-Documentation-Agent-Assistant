@@ -2,6 +2,8 @@
 
 A Deno-based AI agent that researches topics on the web, synthesizes findings, and generates comprehensive Markdown reports.
 
+Short Demo Video (Screen Recording) - https://drive.google.com/file/d/1ZeVFKYwm076_hXdcBONpa4WhoBVPusKj/
+
 ## Quick Start
 
 ### Prerequisites
